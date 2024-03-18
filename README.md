@@ -7,7 +7,7 @@ The Todo List project is a simple and intuitive task management application buil
 ## Features
 #### Add Tasks: 
 Easily add new tasks by entering a task description in the input field.
-#### Task Deletion: 
+#### Task Deletion:  
 Remove completed or unnecessary tasks with a single click.
 #### User-Friendly Interface: 
 The project offers a clean and user-friendly interface, making it easy for users to navigate and manage their tasks.
